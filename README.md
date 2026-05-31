@@ -132,7 +132,7 @@ npm run dev
  * **Observabilidade**: Integração com *Langfuse* ou *Phoenix* para monitoramento de custos, latência e possíveis desvios das respostas da API da OpenAI.
  * **Validação de Esquema**: Implementar *Zod Structured Outputs* na chamada do Agent 2 para garantir integridade absoluta da resposta antes da renderização.
 > 💡 **Nota de Posicionamento Profissional:**
-> *O mercado de tecnologia não contrata ferramentas, contrata resolvedores de problemas. Este projeto demonstra a aplicação prática de Engenharia de Prompts, Arquitetura de Software e Design de Sistemas Multiagentes para sanar uma dor real de engajamento e direcionamento profissional.*
+> *Este projeto demonstra a aplicação prática de Engenharia de Prompts, Arquitetura de Software e Design de Sistemas Multiagentes para sanar uma dor real de engajamento e direcionamento profissional.*
 > 
 
 
