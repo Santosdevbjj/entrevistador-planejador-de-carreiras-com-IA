@@ -3,7 +3,7 @@
 <img width="130" height="120" alt="1000126386" src="https://github.com/user-attachments/assets/039ca932-81e1-4a32-853c-1b41b2b46359" /> 
 
 
-```markdown
+
 # 🤖 Sistema Multiagente de Orientação de Carreira com IA
 
 <div align="left">
