@@ -12,6 +12,7 @@ Técnicas Aplicadas
 
 ```markdown
 # 🧭 Fluxo do Usuário (User Flow) e Ciclo de Vida da Sessão
+```
 
 Este documento ilustra a jornada completa que um usuário percorre ao interagir com o **IA Mentor de Carreira**, mapeando a transição de estados gerida pelo sistema.
 
