@@ -1,0 +1,34 @@
+[
+  {
+    "id": "data-analyst",
+    "name": "Data Analyst",
+    "interestTags": ["dados", "estatística", "visualização", "excel", "powerbi", "sql"],
+    "preferenceMatch": "dados",
+    "baseMarketDemand": 5,
+    "baseRampUpDifficulty": 4
+  },
+  {
+    "id": "backend-developer",
+    "name": "Backend Developer",
+    "interestTags": ["código", "apis", "arquitetura", "banco de dados", "node", "java", "python"],
+    "preferenceMatch": "código",
+    "baseMarketDemand": 5,
+    "baseRampUpDifficulty": 3
+  },
+  {
+    "id": "cloud-engineer",
+    "name": "Cloud Engineer",
+    "interestTags": ["infraestrutura", "aws", "azure", "devops", "linux", "redes"],
+    "preferenceMatch": "código",
+    "baseMarketDemand": 4,
+    "baseRampUpDifficulty": 2
+  },
+  {
+    "id": "product-owner",
+    "name": "Product Owner / Agilista",
+    "interestTags": ["pessoas", "produtos", "negócios", "scrum", "gestão", "processos"],
+    "preferenceMatch": "pessoas",
+    "baseMarketDemand": 4,
+    "baseRampUpDifficulty": 4
+  }
+]
