@@ -134,7 +134,7 @@ npm run dev
 > 💡 **Nota de Posicionamento Profissional:**
 > *O mercado de tecnologia não contrata ferramentas, contrata resolvedores de problemas. Este projeto demonstra a aplicação prática de Engenharia de Prompts, Arquitetura de Software e Design de Sistemas Multiagentes para sanar uma dor real de engajamento e direcionamento profissional.*
 > 
-```
+
 
 ---
 
