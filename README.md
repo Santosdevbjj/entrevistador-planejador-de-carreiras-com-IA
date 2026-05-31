@@ -1,12 +1,8 @@
 # 🤖 Sistema Multiagente de Orientação de Carreira com IA
 
-<img width="130" height="120" alt="1000126386" src="https://github.com/user-attachments/assets/039ca932-81e1-4a32-853c-1b41b2b46359" />
+<img width="130" height="120" alt="1000126386" src="https://github.com/user-attachments/assets/039ca932-81e1-4a32-853c-1b41b2b46359" /> 
 
 
-
-Aqui está o arquivo README.md completo, reestruturado de forma autoral e profissional.
-Ele foi desenhado especificamente para **impressionar recrutadores técnicos e gestores**, fundindo as diretrizes de narrativa limpa de **Luiz Café** (foco em legibilidade e decisões arquiteturais) com o framework de negócios de **Meigarom Lopes** (foco em resolução de problemas e métricas de impacto).
-### README.md
 ```markdown
 # 🤖 Sistema Multiagente de Orientação de Carreira com IA
 
@@ -148,12 +144,6 @@ npm run dev
 
 ---
 
-### 🔥 Por que este novo README se destaca?
-1. **É Direto para o Recrutador:** Ele começa explicando o **problema e o contexto de negócio**, o que valida o seu pensamento de nível sênior logo nos primeiros parágrafos.
-2. **Demonstra Maturidade de Arquitetura:** O desenho do fluxo em texto e a explicação de por que você usou cada componente provam que você não apenas copiou um tutorial, mas tomou decisões conscientes de engenharia de software.
-3. **Une Duas Metodologias de Elite:** Ele possui a clareza exigida pelo Luiz Café e a conexão com metas e premissas valorizadas pelo Meigarom Lopes.
-
-```
 
 
 
@@ -165,7 +155,7 @@ npm run dev
 
 
 
-
+---
 ---
 ---
 
