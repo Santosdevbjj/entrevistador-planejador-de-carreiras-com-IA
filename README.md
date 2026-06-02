@@ -169,6 +169,21 @@ Este projeto vai muito além de um simples wrapper de chatbot. Desenvolvido para
 Muitas pessoas desejam entrar na área de tecnologia, mas não sabem qual carreira combina com seu perfil. Escolher uma trilha errada gera frustração, abandono dos estudos e desperdício de tempo. Este projeto utiliza Inteligência Artificial para entrevistar candidatos, identificar afinidades profissionais e gerar um plano personalizado de desenvolvimento de carreira. 
 
 
+---
+
+## Autor
+
+**Sergio Santos**
+Senior Data Engineer & Cloud Architect | DIO Campus Expert
+
+
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://portfoliosantossergio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
+
+
+
+---
 
 
 
